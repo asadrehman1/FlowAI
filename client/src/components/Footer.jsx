@@ -20,6 +20,17 @@ const Footer = () => {
           </p>
         </div>
 
+        {/* Contact Email */}
+        <p className="mt-2 text-xs md:text-sm text-gray-500 animate-fade-in-up delay-700">
+          Contact:{" "}
+          <a
+            href="mailto:asadrehman2321@gmail.com"
+            className="text-blue-600 hover:underline"
+          >
+            asadrehman2321@gmail.com
+          </a>
+        </p>
+
         {/* Copyright */}
         <p className="pt-8 text-xs md:text-sm text-gray-500 animate-fade-in-up delay-500">
           © {new Date().getFullYear()} Asad Rehman. All Rights Reserved.

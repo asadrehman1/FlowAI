@@ -32,10 +32,6 @@ const Hero = () => {
           <div className="absolute inset-0 bg-gradient-to-r from-white/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
           <span className="relative z-10">Start creating now</span>
         </button>
-        <button className="group relative bg-white/80 backdrop-blur-sm px-10 py-3 rounded-lg border border-white/30 overflow-hidden transform transition-all duration-300 hover:scale-105 hover:shadow-xl hover:bg-white/90 active:scale-95">
-          <div className="absolute inset-0 bg-gradient-to-r from-gray-100/50 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
-          <span className="relative z-10">Watch demo</span>
-        </button>
       </div>
 
       <div className="flex items-center gap-4 mt-8 mx-auto text-gray-600 animate-fade-in-up delay-700">
