@@ -12,7 +12,7 @@ const Hero = () => {
       <div className="absolute bottom-20 right-10 w-96 h-96 bg-gradient-to-r from-pink-400/20 to-orange-400/20 rounded-full blur-3xl animate-pulse delay-1000"></div>
 
       <div className="relative z-10 text-center mb-6 animate-fade-in-up">
-        <h1 className="text-3xl sm:text-5xl md:text-6xl 2xl:text-7xl font-semibold mx-auto leading-[1.2] bg-gradient-to-r from-gray-900 via-gray-800 to-gray-900 bg-clip-text text-transparent animate-gradient-x">
+        <h1 className="text-2xl sm:text-4xl md:text-5xl 2xl:text-7xl font-semibold mx-auto leading-[1.2] bg-gradient-to-r from-gray-900 via-gray-800 to-gray-900 bg-clip-text text-transparent animate-gradient-x">
           Create Amazing content with <br />
           <span className="bg-gradient-to-r from-primary via-purple-600 to-pink-600 bg-clip-text text-transparent animate-gradient-x">
             AI tools
