@@ -93,7 +93,7 @@ export const dummyTestimonialData = [
     name: "Muhammad Abdullah",
     title: "Marketing Director, Glam Media Agency",
     content:
-      "ContentAI has revolutionized our content workflow. The quality of the articles is outstanding, and it saves us hours of work every week.",
+      "FlowAI has revolutionized our content workflow. The quality of the articles is outstanding, and it saves us hours of work every week.",
     rating: 4,
   },
   {
@@ -101,7 +101,7 @@ export const dummyTestimonialData = [
     name: "Hamza Ansar",
     title: "Content Creator, Optionhub",
     content:
-      "ContentAI has made content creation effortless for our team. The AI tools allow us to generate high-quality content much faster than before.",
+      "FlowAI has made content creation effortless for our team. The AI tools allow us to generate high-quality content much faster than before.",
     rating: 5,
   },
   {
@@ -109,7 +109,7 @@ export const dummyTestimonialData = [
     name: "Hadeed Ahmed",
     title: "Content Writer, TechCorp",
     content:
-      "ContentAI has significantly improved our workflow. With its AI tools, we can now produce top-notch content efficiently and consistently.",
+      "FlowAI has significantly improved our workflow. With its AI tools, we can now produce top-notch content efficiently and consistently.",
     rating: 4,
   },
 ];
