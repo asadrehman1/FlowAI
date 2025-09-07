@@ -41,7 +41,7 @@ const Hero = () => {
           className="h-8 transform transition-transform duration-300 hover:scale-110"
         />
         <span className="bg-gradient-to-r from-gray-600 to-gray-800 bg-clip-text text-transparent">
-          Trusted by 10k+ people
+          Trusted by 25 people
         </span>
       </div>
     </div>
